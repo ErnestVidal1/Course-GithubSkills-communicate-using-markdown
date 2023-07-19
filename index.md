@@ -28,3 +28,6 @@ Ongoing
 
 ### Web Development Course
 XYZ Institution, 20XX
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
